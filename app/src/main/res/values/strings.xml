@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW2Additional</string>
+    <!--_________________________________First Activity_________________________________________-->
+
+
+    <string name="TextViewForFirstActivity">Please enter the text in the field after you click "Go to second Activity "</string>
+    <string name="GoToSecondActivity">Go to second activity</string>
+
+
+    <!--____________________________________Second Activity_______________________________________-->
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="FieldForEnterTheText">Please enter the text in this field </string>
+    <string name="ButtonFromSecondToFirstActivity">Ok, I want to see what I wrote in the field</string>
+</resources>
